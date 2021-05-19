@@ -1,0 +1,4 @@
+"","model","data","data_points","iterations","true","local_min","saddle"
+"1","standard","100%",147,1e+05,69204,2047,28716
+"2","standard","50%",74,1e+05,69145,1995,28828
+"3","standard","33%",49,1e+05,70284,2056,27620
